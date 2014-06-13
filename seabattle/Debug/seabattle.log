@@ -1,0 +1,62 @@
+﻿Построение начато 31.10.2013 18:27:43.
+     1>Проект "D:\IT Academy\Алгоритмізація і програмування\C++\battleship\battleship\seabattle\seabattle.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Aircraft.cpp AntiAircraft.cpp BaseMapObj.cpp Fregat.cpp game_menu.cpp Linkor.cpp main.cpp Scout.cpp
+         Scout.cpp
+         main.cpp
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(150): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(206): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(231): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(288): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(297): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(330): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(490): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(525): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(575): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(598): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(622): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(653): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131): см. объявление "getch"
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(753): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(754): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(759): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(760): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(848): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(849): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(854): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(855): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(885): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(886): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(891): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(892): warning C4309: инициализация: усечение константного значения
+     1>d:\it academy\алгоритмізація і програмування\c++\battleship\battleship\seabattle\main.cpp(1131): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Linkor.cpp
+         game_menu.cpp
+         Fregat.cpp
+         BaseMapObj.cpp
+         AntiAircraft.cpp
+         Aircraft.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\IT Academy\Алгоритмізація і програмування\C++\battleship\battleship\Debug\battle_ship.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\IT Academy\Алгоритмізація і програмування\C++\battleship\battleship\Debug\battle_ship.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\IT Academy\Алгоритмізація і програмування\C++\battleship\battleship\Debug\battle_ship.lib" /MACHINE:X86 Debug\Aircraft.obj
+         Debug\AntiAircraft.obj
+         Debug\BaseMapObj.obj
+         Debug\Fregat.obj
+         Debug\game_menu.obj
+         Debug\Linkor.obj
+         Debug\main.obj
+         Debug\Scout.obj
+         seabattle.vcxproj -> D:\IT Academy\Алгоритмізація і програмування\C++\battleship\battleship\Debug\battle_ship.exe
+     1>Построение проекта "D:\IT Academy\Алгоритмізація і програмування\C++\battleship\battleship\seabattle\seabattle.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:08.38
