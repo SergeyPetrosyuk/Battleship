@@ -1,4 +1,3 @@
-
 				Battleship
 
 I. Description
@@ -30,10 +29,7 @@ IV. Installation
 	• Windows 7 (64x);
 	• Visual Studio 2012;
 	Instruction:
-	• Copy the archive on your computer;
-	• Extract archive;
-	Start the game:
-	• Start “battle_ship.lnk” or battleship\Debug\battle_ship.exe
+	• Run it like a project in Visual Studio 2012.
 
 V. About author
 				The developer is Sergey Petrosyuk.
